@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nahidulhasan/html2pdf": "^1.4"
+    }
+}

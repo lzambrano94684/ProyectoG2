@@ -1,0 +1,62 @@
+form .form-body {
+    overflow: inherit !important;
+}
+
+.select2-results__option
+{
+    color: #009DA0;
+}
+
+#upRegistroBtn {
+    height: 30px;
+}
+
+small, .small {
+    font-size: 60% !important;
+}
+.mb-3, .my-3 {
+    margin-bottom: -0.5rem !important;
+}
+
+th.column-title{
+    color: white;
+}
+
+.dropzone { text-align: center; }
+.dropzone.dz-clickable * {
+    cursor: default;
+}
+.dropzone .dz-message {
+    font-size: 1rem;
+    position: absolute;
+    top: 0%;
+    left: 0;
+    width: 100%;
+    height: 10px;
+    color: #009DA0;
+    text-align: center;
+}
+.dropzone .dz-message::before {
+    font-size: 34px;
+    top: 30px;
+}
+
+.dropzone {
+    min-height: 175px;
+ }
+
+table.dataTable.nowrap th, table.dataTable.nowrap td {
+    white-space: normal;
+    overflow: auto;
+}
+
+.ll {
+    vertical-align : middle !important;;
+    text-align:center;
+}
+
+tr td.centerTd
+{
+    /*text-align: center;*/
+    vertical-align: middle;
+}

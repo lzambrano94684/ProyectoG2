@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fb1f4b8-f78a-43a8-b948-860bbc280249" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/CondicionComercialController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/CondicionComercialController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/GastoPromocionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/GastoPromocionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/NotasDistribuidoresController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/NotasDistribuidoresController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/ReportesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/ReportesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/Aprobaciones/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/Aprobaciones/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/EncabezadoCondicionComercial.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/EncabezadoCondicionComercial.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/Index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/Index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/PrecioFinanzas/IndexFinanzas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/PrecioFinanzas/IndexFinanzas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/PrecioFinanzas/tblCondicionesPrecioEspecial.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/PrecioFinanzas/tblCondicionesPrecioEspecial.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/_frmInsert.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/_frmInsert.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/_tblCondicionComercial.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/_tblCondicionComercial.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/detalleCondicionComercial.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/detalleCondicionComercial.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/DetalleGastoPromocional.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/DetalleGastoPromocional.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/EncabezadoGastoPromocional.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/EncabezadoGastoPromocional.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/Index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/Index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/TipoPromocion.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/TipoPromocion.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/_frmInsert.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/_frmInsert.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/_tblGastoPromocion.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/GastosPromocionales/_tblGastoPromocion.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_cuadros/_cuadrof1.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_cuadros/_cuadrof1.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_dataSE.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_dataSE.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila1.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila1.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila2.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila3.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila3.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_grafica.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_grafica.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/index.blade.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sqlsrv" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sqlsrv" type="feb32156:DbDataSourceImpl" />
+        <item name="POINTEX: database" type="bdf80c8a:MssqlImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sqlsrv" type="feb32156:DbDataSourceImpl" />
+        <item name="POINTEX: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sqlsrv" type="feb32156:DbDataSourceImpl" />
+        <item name="POINTEX: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-102">
+              <caret line="408" column="87" selection-start-line="408" selection-start-column="87" selection-end-line="408" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LiquidacionCCController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/LiquidacionCCController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="196" column="28" selection-start-line="196" selection-start-column="8" selection-end-line="196" selection-end-column="28" />
+              <folding>
+                <element signature="e#74#114#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReportesController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/ReportesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CondicionComercialController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/CondicionComercialController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="872">
+              <caret line="177" column="33" selection-start-line="177" selection-start-column="33" selection-end-line="177" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="blade" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fondo</find>
+      <find>arrayAprobadores</find>
+      <find>PX_FIN_PersonaMoto</find>
+      <find>finanzas</find>
+      <find>Project Name</find>
+      <find>numer</find>
+      <find>meses</find>
+      <find>.datatablePointer</find>
+      <find>datatableViews</find>
+      <find>$modelEncabezado-&gt;IdPersona</find>
+      <find>repli</find>
+      <find>save</find>
+      <find>replic</find>
+      <find>dd(</find>
+      <find>left</find>
+      <find>prome</find>
+      <find>$montoHaceAnioC</find>
+      <find>$promedioMenosDosAnio</find>
+      <find>$montoHaceAnio</find>
+      <find>montoAnioAnterior2Out</find>
+      <find>montoAnioAnterior2C</find>
+      <find>$montoAnioAnterior2OutC</find>
+      <find>$montoAnioAnterior2C</find>
+      <find>$montoAnioAnterior2</find>
+      <find>$montoAnioAnteriorC</find>
+      <find>Prom</find>
+      <find>$aprobadores</find>
+      <find>aprobadores</find>
+      <find>vie</find>
+      <find>cmbEn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>rowUnis2019</replace>
+      <replace>$vme</replace>
+      <replace />
+      <replace>cmbMes</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\pointex\app\Modelos\GestionProducto</dir>
+      <dir>C:\xampp\htdocs\pointex</dir>
+      <dir>C:\xampp\htdocs\pointex\resources\views\Sistema\Pointex\Modulo\Administracion</dir>
+      <dir>C:\xampp\htdocs\pointex\resources\views\Sistema\Pointex\Modulo\Finanzas\Requisicion</dir>
+      <dir>C:\xampp\htdocs\pointex\public</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/Sistema/Pointex/Modulo/js/pointex.js" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Presupuesto/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Presupuesto/_vistasAsignacion/_frmInsert.blade.php" />
+        <option value="$PROJECT_DIR$/public/Sistema/Pointex/Modulo/Finanzas/js/asignaciones/_frmInsert.js" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/AsignacionesController.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Presupuesto/_vistasAsignacion/_tblAsignacionCuenta.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/SalesExpenses/Finanzas/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/SalesExpenses/_extrasUniversal/_tblEncabezado.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/SalesExpenses/SalesController.php" />
+        <option value="$PROJECT_DIR$/app/Modelos/CORE/PX_SIS_ArbolAProbaciones.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Requisicion/_subVistas/_frmCrear/_detalle.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Requisicion/_subVistas/_frmCrear/_printRequi.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Requisicion/_subVistas/_frmCrear.blade.php" />
+        <option value="$PROJECT_DIR$/app/Modelos/Finanzas/PX_FIN_Ejecucion.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Requisicion/_subVistas/_frmCrear/_encabezado.blade.php" />
+        <option value="$PROJECT_DIR$/public/Sistema/Pointex/Modulo/Finanzas/js/requisiciones.js" />
+        <option value="$PROJECT_DIR$/public/Sistema/Pointex/Modulo/Finanzas/js/requisiciones/_frmInsert.js" />
+        <option value="$PROJECT_DIR$/public/Sistema/Pointex/Modulo/Finanzas/js/compras.js" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Requisicion/_subVistasCompras/_tbl.blade.php" />
+        <option value="$PROJECT_DIR$/app/Modelos/Finanzas/PX_FIN_EjecucionEstatusHistorial.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/estatusUniversal/_estatus.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Multiples/ArbolAprobacionesController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/RequisicionController.php" />
+        <option value="$PROJECT_DIR$/app/Modelos/Finanzas/PX_FIN_PersonaMoto.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Fondo/_vistasFondo/_frmAsignaFondo.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Fondo/_vistasFondo/_tbl.blade.php" />
+        <option value="$PROJECT_DIR$/app/Modelos/Finanzas/PX_FIN_Movimiento.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Fondo/reasignacion.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/AsignacionFondoController.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Liquidacioncc/_subVistaLiquidacionFP/_subVistas/_frmCrear.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/BaseController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/LiquidacionCCController.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Liquidacionfp/_subVistaLiquidacionFP/_subVistas/_frmCrear.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Liquidaciontc/_subVistaLiquidacionFP/_subVistas/_frmCrear.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/LiquidacionFPController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/LiquidacionTCController.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_dataSE.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_grafica.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_cuadro/_cuadro.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_cuadros/_cuadrof2.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/LayOuts/layout.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/_frmInsert.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila2.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila1.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_cuadros/_cuadrof1.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila3.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/CondicionComercialController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/ReportesController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/haubek/bootstrap4c-chosen" />
+      <path value="$PROJECT_DIR$/vendor/harvesthq/chosen" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/twbs/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/luecano/numero-a-letras" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="785" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Administracion" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Finanzas" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GestionProducto" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Medical" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Multiples" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Promotion" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Reportes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="SalesExpenses" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modelos" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modelos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="BI" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modelos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Finanzas" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modelos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Promotion" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="LayOuts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Finanzas" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Promotion" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Promotion" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Reportes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="SalesExpenses" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="SalesExpenses" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_extrasUniversal" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Modulo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="SalesExpenses" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Finanzas" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pointex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sistema" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pointex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Universales" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)&#10;DDL Data Source&#10;SQL Server (jTds)" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Streaming_video" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\pointex\app\Http\Controllers\Sistema\Pointex\Modulo\Promotion" />
+      <recent name="C:\xampp\htdocs\pointex\resources\views\Sistema\Pointex\Modulo\Promotion\Reportes\_subVistas" />
+      <recent name="C:\xampp\htdocs\pointex\resources\views\Sistema\Pointex\Modulo\Promotion\Reportes\_subVistas\_cuadros" />
+      <recent name="C:\xampp\htdocs\pointex\app\Modelos\Finanzas" />
+      <recent name="C:\xampp\htdocs\pointex\app\Http\Controllers\Sistema\Pointex\Modulo\Finanzas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\pointex\public\Sistema\Pointex\Modulo\GestionProducto\js" />
+      <recent name="C:\xampp\htdocs\pointex\resources\views\Sistema\Pointex\Modulo\SalesExpenses\Reportes\_extrasDinamico\_extrasFrm" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fb1f4b8-f78a-43a8-b948-860bbc280249" name="Default" comment="" />
+      <created>1587481969255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587481969255</updated>
+      <workItem from="1587481972297" duration="13830000" />
+      <workItem from="1587573354288" duration="16058000" />
+      <workItem from="1587618576640" duration="311000" />
+      <workItem from="1587620007452" duration="13551000" />
+      <workItem from="1587651226683" duration="623000" />
+      <workItem from="1587709262610" duration="9771000" />
+      <workItem from="1587755178832" duration="5235000" />
+      <workItem from="1588094127527" duration="2376000" />
+      <workItem from="1588177713404" duration="1882000" />
+      <workItem from="1588603508457" duration="2416000" />
+      <workItem from="1588610487448" duration="10288000" />
+      <workItem from="1588690290156" duration="7614000" />
+      <workItem from="1588761974263" duration="4333000" />
+      <workItem from="1588868896949" duration="20114000" />
+      <workItem from="1589177698457" duration="23966000" />
+      <workItem from="1589332151194" duration="4202000" />
+      <workItem from="1589393287211" duration="3658000" />
+      <workItem from="1589400630342" duration="10432000" />
+      <workItem from="1589477469263" duration="20443000" />
+      <workItem from="1589644078960" duration="17397000" />
+      <workItem from="1589782897778" duration="19737000" />
+      <workItem from="1589907122889" duration="2553000" />
+      <workItem from="1589986757313" duration="24571000" />
+      <workItem from="1590072338883" duration="11659000" />
+      <workItem from="1590291773434" duration="8795000" />
+      <workItem from="1590374939581" duration="21438000" />
+      <workItem from="1590421216086" duration="11044000" />
+      <workItem from="1590519524322" duration="516000" />
+      <workItem from="1590520754323" duration="6627000" />
+      <workItem from="1590621619684" duration="4075000" />
+      <workItem from="1590712638618" duration="13208000" />
+      <workItem from="1590788190934" duration="1206000" />
+      <workItem from="1590910915045" duration="8041000" />
+      <workItem from="1591022026900" duration="11799000" />
+      <workItem from="1591165918738" duration="10805000" />
+      <workItem from="1591198539100" duration="7950000" />
+      <workItem from="1591256702624" duration="6656000" />
+      <workItem from="1591283931751" duration="9005000" />
+      <workItem from="1591646989811" duration="750000" />
+      <workItem from="1591715551215" duration="596000" />
+      <workItem from="1591723002303" duration="2313000" />
+      <workItem from="1591763287817" duration="1903000" />
+      <workItem from="1591890319859" duration="29128000" />
+      <workItem from="1592009184126" duration="2002000" />
+      <workItem from="1592207854411" duration="20990000" />
+      <workItem from="1592345253412" duration="14722000" />
+      <workItem from="1592492961775" duration="4438000" />
+      <workItem from="1592529800014" duration="32503000" />
+      <workItem from="1592666299213" duration="3930000" />
+      <workItem from="1592685063531" duration="16281000" />
+      <workItem from="1592717174588" duration="8856000" />
+      <workItem from="1592751704799" duration="2432000" />
+      <workItem from="1592763643306" duration="1059000" />
+      <workItem from="1592844578786" duration="599000" />
+      <workItem from="1592888298477" duration="5389000" />
+      <workItem from="1592971430137" duration="19808000" />
+      <workItem from="1593009499972" duration="10534000" />
+      <workItem from="1593069055175" duration="20515000" />
+      <workItem from="1593180853302" duration="30984000" />
+      <workItem from="1593300480880" duration="2782000" />
+    </task>
+    <task id="LOCAL-00001" summary="Se corrigio error de ortografia en el correo de bienvenida">
+      <created>1592701855462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592701855462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="600699000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.7393162" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32905984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="14" weight="0.32905984" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.46723646" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se corrigio error de ortografia en el correo de bienvenida" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se corrigio error de ortografia en el correo de bienvenida" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_cuadros/_cuadrof1.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="61" lean-forward="true" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_grafica.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="206" selection-start-line="11" selection-start-column="109" selection-end-line="11" selection-end-column="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila3.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Modelos/Finanzas/PX_FIN_EjecucionEstatusHistorial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Multiples/ArbolAprobacionesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <element signature="e#73#113#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Presupuesto/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/GestionProducto/ProductoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="70" column="57" selection-start-line="65" selection-start-column="7" selection-end-line="70" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Presupuesto/_vistasAsignacion/_frmInsert.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../plantillas/Apex - Angular 7+ &amp; Bootstrap 4 HTML Admin Template/html/demo-1/demo-1/basic-forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="649" column="24" lean-forward="true" selection-start-line="644" selection-start-column="18" selection-end-line="649" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/SalesExpenses/Finanzas/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="162" column="20" selection-start-line="162" selection-start-column="20" selection-end-line="162" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/AsignacionesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="241" column="22" selection-start-line="225" selection-start-column="9" selection-end-line="241" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/SalesExpenses/_extrasUniversal/_tblEncabezado.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="64" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Sistema/Pointex/Modulo/SalesExpenses/js/updateEncabezado.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="98" column="3" lean-forward="true" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Modelos/Finanzas/PX_FIN_PersonaMoto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Vendor/Plantillas/Apex/app-assets/vendors/js/datatable/dataTableLanguaje.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-417">
+          <caret line="49" column="28" lean-forward="true" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Sistema/Pointex/Modulo/Finanzas/js/requisiciones/_frmInsert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="328" column="83" selection-start-line="328" selection-start-column="3" selection-end-line="328" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Fondo/_vistasFondo/_tbl.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="30" column="64" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Modelos/Finanzas/PX_FIN_Movimiento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Sistema/Pointex/Modulo/Finanzas/js/requisiciones.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp07326/var/www/html/pointex/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/RequisicionController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/AsignacionFondoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="943" column="5" selection-start-line="943" selection-start-column="5" selection-end-line="943" selection-end-column="5" />
+          <folding>
+            <element signature="e#41#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Liquidacioncc/_subVistaLiquidacionFP/_subVistas/_frmCrear.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" column="18" selection-start-line="67" selection-start-column="11" selection-end-line="90" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Liquidacionfp/_subVistaLiquidacionFP/_subVistas/_frmCrear.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="40" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Modelos/CORE/PX_SIS_ArbolPersona.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Requisicion/_subVistas/_frmCrear.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="91" column="18" selection-start-line="68" selection-start-column="12" selection-end-line="91" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Liquidaciontc/_subVistaLiquidacionFP/_subVistas/_frmCrear.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/LiquidacionFPController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="92" column="49" selection-start-line="92" selection-start-column="49" selection-end-line="92" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/SalesExpenses/SalesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="324" column="44" selection-start-line="324" selection-start-column="44" selection-end-line="324" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/LiquidacionTCController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Fondo/_vistasFondo/_frmAsignaFondo.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Finanzas/Fondo/reasignacion.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="65" column="35" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/LayOuts/masterMenu.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/LayOuts/layoutSL.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_dataSE.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_grafica.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="206" selection-start-line="11" selection-start-column="109" selection-end-line="11" selection-end-column="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_cuadros/_cuadrof2.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/LayOuts/sidebarLeft.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila1.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_cuadros/_cuadrof1.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila3.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/_subVistas/_fila2.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/LayOuts/layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="84" column="25" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/CondicionComercial/_frmInsert.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="91" column="57" selection-start-line="91" selection-start-column="57" selection-end-line="91" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="408" column="87" selection-start-line="408" selection-start-column="87" selection-end-line="408" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/RequisicionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="470" column="20" selection-start-line="470" selection-start-column="20" selection-end-line="470" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Finanzas/LiquidacionCCController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="196" column="28" selection-start-line="196" selection-start-column="8" selection-end-line="196" selection-end-column="28" />
+          <folding>
+            <element signature="e#74#114#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/CondicionComercialController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="872">
+          <caret line="177" column="33" selection-start-line="177" selection-start-column="33" selection-end-line="177" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/Pointex/Modulo/Promotion/Reportes/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/Pointex/Modulo/Promotion/ReportesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

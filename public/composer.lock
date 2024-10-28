@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7c42bc4de300d212bc0e9b56d0d0a7f3",
+    "packages": [
+        {
+            "name": "nahidulhasan/html2pdf",
+            "version": "1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nahidulhasan/laravel-pdf.git",
+                "reference": "f5d0d66c3b7e8add1f6b2cf71d0ae03fe386d98a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nahidulhasan/laravel-pdf/zipball/f5d0d66c3b7e8add1f6b2cf71d0ae03fe386d98a",
+                "reference": "f5d0d66c3b7e8add1f6b2cf71d0ae03fe386d98a",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "NahidulHasan\\Html2pdf\\Html2pdfServiceProvider"
+                    ],
+                    "aliases": {
+                        "Pdf": "NahidulHasan\\Html2pdf\\Facades\\Pdf"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "NahidulHasan\\Html2pdf\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nahidul Hasan",
+                    "email": "nahidul.cse@gmail.com"
+                }
+            ],
+            "description": "A Simple package for easily generating PDF documents from HTML.This package is specially for laravel but you can use this without laravel.",
+            "time": "2020-12-12T09:03:08+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
